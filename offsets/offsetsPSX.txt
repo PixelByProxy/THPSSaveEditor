@@ -1,0 +1,724 @@
+-Cheats-
+
+McSqueeb - 6111
+	Pic - 571,574
+Spiderman - 6115
+	Pic - 799,802
+Officer Dick - 6119
+	Pic - 1027,1030
+Skip to Restart - 6123
+	Pic - 1255,1258
+Kid Mode - 6127
+	Pic - 1483,1486
+PB - 6131
+	Pic - 1711,1714
+Always Special - 6135
+	Pic - 1939,1942
+STUD - 6139
+	Pic - 2167,2170
+Fat Skater - 6143
+	Pic - 2395,2398
+Wireframe - 6147
+	Pic - 2623,2626
+Slow nic - 6151
+	Pic - 2851,2854
+Big Head - 6155
+	Pic - 3079,3082
+Sim mode - 6159
+	Pic - 3307,3310
+Smooth - 6163
+	Pic - 3535,3538 - 50,3
+Moon Physics - 6167
+	Pic - 4447,4450
+Disco Mode - 6171
+	Pic - 4675,4678
+Level Flip - 6175
+	Pic - 4903,4906
+Private Carrera + Chopper + Skate Heaven - 6903
+
+60 = Enabled
+
+-Gaps-
+
+Hangar - 5835,5836,5837,5838
+School - 5847,5848,5849,5850,5851,5852,5853
+Marseille - 5859,5860,5861,8562,5863
+New York - 5871,5872,5873,5874,5875,5876
+Venice - 5883,5884,5885,5886,5887,5888
+Skatestreet - 5895,5896,5897,5898,5899
+Philly - 5907,5908,5909,5910,5911,5912
+Bullring - 5919,5920,5921,5922
+Chopper Drop - 5931,5932
+Skate Heaven - 5943,5944,5945,5946,5947,5948,5949,5950,5951,5952
+
+-Tony Hawk-
+
+cash - 575
+cash2 - 579
+
+Air - 619
+HangTime - 620
+Ollie - 621
+Speed - 622
+Spin - 623
+Landing - 624
+Switch - 625
+Rail Balance - 626
+Lip Balacne - 627
+Manuals - 628
+
+Hangar - 583
+	Money - 631,632,633,634
+School 2 - 585
+	Money - 639,640,641,642
+Marseille - 587
+	Money - 647,648,649,650
+NY City - 589
+	Money - 655,656,657,658
+Venice - 591
+	Money - 663,664,665,666
+Skatestreet - 593
+	Money - 671,672,673,674
+Philly - 595
+	Money - 679,680,681,682
+Bullring - 597
+	Money - 687,688,689,690
+
+-Bob Burnquist-
+
+cash - 803
+cash2 - 807
+
+Air - 847
+HangTime - 848
+Ollie - 849
+Speed - 850
+Spin - 851
+Landing - 852
+Switch - 853
+Rail Balance - 854
+Lip Balacne - 855
+Manuals - 856
+
+Hangar - 811
+	Money - 859,860,861,862
+School 2 - 813
+	Money - 867,868,869,870
+Marseille - 815
+	Money - 875,876,877,878
+NY City - 817
+	Money - 883,884,885,886
+Venice - 819
+	Money - 891,892,893,894
+Skatestreet - 821
+	Money - 899,900,901,902
+Philly - 823
+	Money - 907,908,909,910
+Bullring - 825
+	Money - 915,916,917,918
+
+-Steve Cabellero-
+
+cash - 1031
+cash2 - 1035
+
+Air - 1075
+HangTime - 1076
+Ollie - 1077
+Speed - 1078
+Spin - 1079
+Landing - 1080
+Switch - 1081
+Rail Balance - 1082
+Lip Balacne - 1083
+Manuals - 1084
+
+Hangar - 1039
+	Money - 1087,1088,1089,1090
+School 2 - 1041
+	Money - 1095,1096,1097,1098
+Marseille - 1043
+	Money - 1103,1104,1105,1106
+NY City - 1045
+	Money - 1111,1112,1113,1114
+Venice - 1047
+	Money - 1119,1120,1121,1122
+Skatestreet - 1049
+	Money - 1127,1128,1129,1130
+Philly - 1051
+	Money - 1135,1136,1137,1138
+Bullring - 1053
+	Money - 1143,1144,1145,1146
+
+-Kareem Cambell-
+
+cash - 1259,1260 - 1261
+cash2 - 1263,1264 - 1265
+
+Air - 1303
+HangTime - 1304
+Ollie - 1305
+Speed - 1306
+Spin - 1307
+Landing - 1308
+Switch - 1309
+Rail Balance - 1310
+Lip Balacne - 1311
+Manuals - 1312
+
+Hangar - 
+	Money - 1315,1316,1317,1318
+School 2 - 
+	Money - 1323,1324,1325,1326
+Marseille - 
+	Money - 1331,1332,1333,1334
+NY City - 
+	Money - 1339,1340,1341,1342
+Venice - 1047
+	Money - 1347,1348,1349,1350
+Skatestreet - 
+	Money - 1355,1356,1357,1358
+Philly - 
+	Money - 1363,1364,1365,1366
+Bullring - 
+	Money - 1371,1372,1373,1374
+
+-Rune Glifberg-
+
+cash - 1487
+cash2 - 1491
+
+Air - 1531
+HangTime - 1532
+Ollie - 1533
+Speed - 1534
+Spin - 1535
+Landing - 1536
+Switch - 1537
+Rail Balance - 1538
+Lip Balacne - 1539
+Manuals - 1540
+
+Hangar - 1495
+	Money - 1543,1544,1545,1546
+School 2 - 1497
+	Money - 1551,1552,1553,1554
+Marseille - 1499
+	Money - 1559,1560,1561,1562
+NY City - 1501
+	Money - 1567,1568,1569,1570
+Venice - 1503
+	Money - 1575,1576,1577,1578
+Skatestreet - 1505
+	Money - 1583,1584,1585,1586
+Philly - 1507
+	Money - 1591,1592,1593,1594
+Bullring - 1509
+	Money - 1599,1600,1601,1602
+
+-Eric Koston-
+
+cash - 1715
+cash2 - 1719
+
+Air - 1759
+HangTime - 1760
+Ollie - 1761
+Speed - 1762
+Spin - 1763
+Landing - 1764
+Switch - 1765
+Rail Balance - 1766
+Lip Balacne - 1767
+Manuals - 1768
+
+Hangar - 1723
+	Money - 1771,1772,1773,1774
+School 2 - 1725
+	Money - 1779,1780,1781,1782
+Marseille - 1727
+	Money - 1787,1788,1789,1790
+NY City - 1729
+	Money - 1795,1796,1797,1798
+Venice - 1731
+	Money - 1803,1804,1805,1806
+Skatestreet - 1733
+	Money - 1811,1812,1813,1814
+Philly - 1735
+	Money - 1819,1820,1821,1822
+Bullring - 1737
+	Money - 1827,1828,1829,1830
+
+-Bucky Lasek-
+
+cash1 - 1943
+cash2 - 1947
+
+Air - 1987
+HangTime - 1988
+Ollie - 1989
+Speed - 1990
+Spin - 1991
+Landing - 1992
+Switch - 1993
+Rail Balance - 1994
+Lip Balacne - 1995
+Manuals - 1996
+
+Hangar - 1951
+	Money - 1999,2000,2001,2002
+School 2 - 1953
+	Money - 2007,2008,2009,2010
+Marseille - 1955
+	Money - 2015,2016,2017,2018
+NY City - 1957
+	Money - 2023,2024,2025,2026
+Venice - 1959
+	Money - 2031,2032,2033,2034
+Skatestreet - 1961
+	Money - 2039,2040,2041,2042
+Philly - 1963
+	Money - 2047,2048,2049,2050
+Bullring - 1965
+	Money - 2055,2056,2057,2058
+
+-Rodney Mullen-
+
+cash1 - 2171
+cash2 - 2175
+
+Air - 2215
+HangTime - 2216
+Ollie - 2217
+Speed - 2218
+Spin - 2219
+Landing - 2220
+Switch - 2221
+Rail Balance - 2222
+Lip Balacne - 2223
+Manuals - 2224
+
+Hangar - 2179
+	Money - 2227,2228,2229,2230
+School 2 - 2181
+	Money - 2235,2236,2237,2238
+Marseille - 2183
+	Money - 2243,2244,2245,2246
+NY City - 2185
+	Money - 2251,2252,2253,2254
+Venice - 2187
+	Money - 2259,2260,2261,2262
+Skatestreet - 2189
+	Money - 2267,2268,2269,2270
+Philly - 2191
+	Money - 2275,2276,2277,2278
+Bullring - 2193
+	Money - 2283,2284,2285,2286
+
+-Chad Muska-
+
+cash1 - 2399
+cash2 - 2403
+
+Air - 2443
+HangTime - 2444
+Ollie - 2445
+Speed - 2446
+Spin - 2447
+Landing - 2448
+Switch - 2449
+Rail Balance - 2450
+Lip Balacne - 2451
+Manuals - 2452
+
+Hangar - 2407
+	Money - 2455,2456,2457,2458
+School 2 - 2409
+	Money - 2463,2464,2465,2466
+Marseille - 2411
+	Money - 2471,2472,2473,2474
+NY City - 2413
+	Money - 2479,2480,2481,2482
+Venice - 2415
+	Money - 2487,2488,2489,2490
+Skatestreet - 2417
+	Money - 2495,2496,2497,2498
+Philly - 2419
+	Money - 2503,2504,2505,2506
+Bullring - 2421
+	Money - 2511,2512,2513,2514
+
+-Andrew Reynolds-
+
+cash1 - 2627
+cash2 - 2631
+
+Air - 2671
+HangTime - 2672
+Ollie - 2673
+Speed - 2674
+Spin - 2675
+Landing - 2676
+Switch - 2677
+Rail Balance - 2678
+Lip Balacne - 2679
+Manuals - 2680
+
+Hangar - 2635
+	Money - 2683,2684,2685,2686
+School 2 - 2637
+	Money - 2691,2692,2693,2694
+Marseille - 2639
+	Money - 2699,2700,2701,2702
+NY City - 2641
+	Money - 2707,2708,2709,2710
+Venice - 2643
+	Money - 2715,2716,2717,2718
+Skatestreet - 2645
+	Money - 2723,2724,2725,2726
+Philly - 2647
+	Money - 2731,2732,2733,2734
+Bullring - 2649
+	Money - 2739,2740,2741,2742
+
+-Geoff Rowley-
+
+cash1 - 2855
+cash2 - 2859
+
+Air - 2899
+HangTime - 2900
+Ollie - 2901
+Speed - 2902
+Spin - 2903
+Landing - 2904
+Switch - 2905
+Rail Balance - 2906
+Lip Balacne - 2907
+Manuals - 2908
+
+Hangar - 2863
+	Money - 2911,2912,2913,2914
+School 2 - 2865
+	Money - 2919,2920,2921,2922
+Marseille - 2867
+	Money - 2927,2928,2929,2930
+NY City - 2869
+	Money - 2935,2936,2937,2938
+Venice - 2871
+	Money - 2943,2944,2945,2946
+Skatestreet - 2873
+	Money - 2951,2952,2953,2954
+Philly - 2875
+	Money - 2959,2960,2961,2962
+Bullring - 2877
+	Money - 2967,2968,2969,2970
+
+-Elissa Steamer-
+
+cash1 - 3083
+cash2 - 3087
+
+Air - 3127
+HangTime -3128 
+Ollie - 3129
+Speed - 3130
+Spin - 3131
+Landing - 3132
+Switch - 3133
+Rail Balance - 3134
+Lip Balacne - 3135
+Manuals - 3136
+
+Hangar - 3091
+	Money - 3139,3140,3141,3142
+School 2 - 3093
+	Money - 3147,3148,3149,3150
+Marseille - 3095
+	Money - 3155,3156,3157,3158
+NY City - 3097
+	Money - 3163,3164,3165,3166
+Venice - 3099
+	Money - 3171,3172,3173,3174
+Skatestreet - 3101
+	Money - 3179,3180,3181,3182
+Philly - 3103
+	Money - 3187,3188,3189,3190
+Bullring - 3105
+	Money - 3195,3196,3197,3198
+
+-Jamie Thomas-
+
+cash1 - 3311
+cash2 - 3315
+
+Air - 3355
+HangTime - 3356
+Ollie - 3357
+Speed - 3358
+Spin - 3359
+Landing - 3360
+Switch - 3361
+Rail Balance - 3362
+Lip Balacne - 3363
+Manuals - 3364
+
+Hangar - 3319
+	Money - 3367,3368,3369,3370
+School 2 - 3321
+	Money - 3375,3376,3377,3378
+Marseille - 3323
+	Money - 3383,3384,3385,3386
+NY City - 3325
+	Money - 3391,3392,3393,3394
+Venice - 3327
+	Money - 3399,3400,3401,3402
+Skatestreet - 3329
+	Money - 3407,3408,3409,3410
+Philly - 3331
+	Money - 3415,3416,3417,3418
+Bullring - 3333
+	Money - 3423,3424,3425,3426
+
+-Officer Dick-
+
+cash1 - 4451
+cash2 - 4455
+
+Air - 4495
+HangTime - 4496
+Ollie - 4497
+Speed - 4498
+Spin - 4499
+Landing - 4500
+Switch - 4501
+Rail Balance - 4502
+Lip Balacne - 4503
+Manuals - 4504
+
+Hangar - 4459
+	Money - 4507,4508,4509,4510
+School 2 - 4461
+	Money - 4515,4516,4517,4518
+Marseille - 4463
+	Money - 4523,4524,4525,4526
+NY City - 4465
+	Money - 4531,4532,4533,4534
+Venice - 4467
+	Money - 4539,4540,4541,4542
+Skatestreet - 4469
+	Money - 4547,4548,4549,4550
+Philly - 4471
+	Money - 4555,4556,4557,4558
+Bullring - 4473
+	Money - 4563,4564,4565,4566
+
+-Private Carrera-
+
+Enabled - 6903
+
+12 = Enabled + Chopper Drop
+
+cash1 - 4679
+cash2 - 4683
+
+Air - 4723
+HangTime - 4724
+Ollie - 4725
+Speed - 4726
+Spin - 4727
+Landing - 4728
+Switch - 4729
+Rail Balance - 4730
+Lip Balacne - 4731
+Manuals - 4732
+
+Hangar - 4687
+	Money - 4735,4736,4737,4738
+School 2 - 4689
+	Money - 4743,4744,4745,4746
+Marseille - 4691
+	Money - 4751,4752,4753,4754
+NY City - 4693
+	Money - 4759,4760,4761,4762
+Venice - 4695
+	Money - 4767,4768,4769,4770
+Skatestreet - 4697
+	Money - 4775,4776,4777,4778
+Philly - 4699
+	Money - 4783,4784,4785,4786
+Bullring - 4701
+	Money - 4791,4792,4793,4794
+
+-Spider Man-
+
+cash1 - 4907
+cash2 - 4911
+
+Air - 4951
+HangTime - 4952
+Ollie - 4953
+Speed - 4954
+Spin - 4955
+Landing - 4956
+Switch - 4957
+Rail Balance - 4958
+Lip Balacne - 4959
+Manuals - 4960
+
+Hangar - 4915
+	Money - 4963,4964,4965,4966
+School 2 - 4917
+	Money - 4971,4972,4973,4974
+Marseille - 4919
+	Money - 4979,4980,4981,4982
+NY City - 4921
+	Money - 4987,4988,4989,4990
+Venice - 4923
+	Money - 4995,4996,4997,4998
+Skatestreet - 4925
+	Money - 5003,5004,5005,5006
+Philly - 4927
+	Money - 5011,5012,5013,5014
+Bullring - 4929
+	Money - 5019,5020,5021,5022
+
+-Created Skater A-
+
+Enabled - 6425
+
+cash1 - 3539
+cash2 - 3543
+
+Air - 3583
+HangTime - 3584
+Ollie - 3585
+Speed - 3586
+Spin - 3587
+Landing - 3588
+Switch - 3589
+Rail Balance - 3590
+Lip Balacne - 3591
+Manuals - 3592
+
+Hangar - 3547
+	Money - 3595,3596,3597,3598
+School 2 - 3549
+	Money - 3603,3604,3605,3606
+Marseille - 3551
+	Money - 3611,3612,3613,3614
+NY City - 3553
+	Money - 3619,3620,3621,3622
+Venice - 3555
+	Money - 3627,3628,3629,3630
+Skatestreet - 3557
+	Money - 3635,3636,3637,3638
+Philly - 3559
+	Money - 3643,3644,3645,3646
+Bullring - 3561
+	Money - 3651,3652,3653,3654
+
+-Created Skater B-
+
+Enabled - 6553
+
+cash1 - 3767
+cash2 - 3771
+
+Air - 3811
+HangTime - 3812
+Ollie - 3813
+Speed - 3814
+Spin - 3815
+Landing - 3816
+Switch - 3817
+Rail Balance - 3818
+Lip Balacne - 3819
+Manuals - 3820
+
+Hangar - 3775
+	Money - 3823,3824,3825,3826
+School 2 - 3777
+	Money - 3831,3832,3833,3834
+Marseille - 3779
+	Money - 3839,3840,3841,3842
+NY City - 3781
+	Money - 3847,3848,3849,3850
+Venice - 3783
+	Money - 3855,3856,3857,3858
+Skatestreet - 3785
+	Money - 3863,3864,3865,3866
+Philly - 3787
+	Money - 3871,3872,3873,3874
+Bullring - 3789
+	Money - 3879,3880,3881,3882
+
+-Created Skater C-
+
+Enabled - 6681
+
+cash1 - 3995
+cash2 - 3999
+
+Air - 4039
+HangTime - 4040
+Ollie - 4041
+Speed - 4042
+Spin - 4043
+Landing - 4044
+Switch - 4045
+Rail Balance - 4046
+Lip Balacne - 4047
+Manuals - 4048
+
+Hangar - 4003
+	Money - 4051,4052,4053,4054
+School 2 - 4005
+	Money - 4059,4060,4061,4062
+Marseille - 4007
+	Money - 4067,4068,4069,4070
+NY City - 4009
+	Money - 4075,4076,4077,4078
+Venice - 4011
+	Money - 4083,4084,4085,4086
+Skatestreet - 4013
+	Money - 4091,4092,4093,4094
+Philly - 4015
+	Money - 4099,4100,4101,4102
+Bullring - 4017
+	Money - 4107,4108,4109,4110
+
+-Created Skater D-
+
+Enabled - 6809
+
+cash1 - 4223
+cash2 - 4227
+
+Air - 4267
+HangTime - 4268
+Ollie - 4269
+Speed - 4270
+Spin - 4271
+Landing - 4272
+Switch - 4273
+Rail Balance - 4274
+Lip Balacne - 4275
+Manuals - 4276
+
+Hangar - 4231
+	Money - 4279,4280,4281,4282
+School 2 - 4233
+	Money - 4287,4288,4289,4290
+Marseille - 4235
+	Money - 4295,4296,4297,4298
+NY City - 4237
+	Money - 4303,4304,4305,4306
+Venice - 4239
+	Money - 4311,4312,4313,4314
+Skatestreet - 4241
+	Money - 4319,4320,4321,4322
+Philly - 4243
+	Money - 4327,4328,4329,4330
+Bullring - 4245
+	Money - 4335,4336,4337,4338
